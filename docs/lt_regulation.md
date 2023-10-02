@@ -19,5 +19,5 @@
     * 特に YouTube Live等では第三者の著作物を侵害するような内容を配信すると主催者のアカウントがBANされてしまいますので、ご注意ください。
 
  
-## ハイブリット開催時の注意事項
-* ハイブリット開催時はYouTube Liveの他、Facebook LiveとTwitch等へのマルチ配信を行います。
+## ハイブリッド開催時の注意事項
+* ハイブリッド開催時はYouTube Liveの他、Facebook LiveとTwitch等へのマルチ配信を行います。
