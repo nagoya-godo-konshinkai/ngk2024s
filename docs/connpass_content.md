@@ -77,7 +77,7 @@ NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 企業スポンサーとして支援いただいた際には企業ロゴの掲載・スポンサーLT等を行うことができ、特典の異なる「GOLDスポンサー」「SILVERスポンサー」の2種類を用意しています。
 
 ### 申し込み方法
-詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2024s/sponsors-prospectus.md)をご覧ください。
+詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2024s/sponsors-prospectus.html)をご覧ください。
 
 ### 申し込み期限
 **2023/12/01（金） 18:00**
@@ -90,7 +90,7 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 協力コミュニティとして参加していただくと、コミュニティロゴの掲載・コミュニティLT等を行うことができます。また、参加費用は無料です！
 
 ### 申し込み方法
-詳細は[コミュニティ参加募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2024s/community-prospectus.md)をご覧ください。
+詳細は[コミュニティ参加募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2024s/community-prospectus.html)をご覧ください。
 
 ### 申し込み期限
 **2023/12/29（金） 18:00**	
