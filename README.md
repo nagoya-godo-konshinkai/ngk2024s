@@ -7,8 +7,9 @@
 ```
 $ tree
 ├── README.md
-├── connpass_content.md
-├── docs               
+├── connpass_content_day_session.md
+├── connpass_content_evening_session.md
+├── docs
 │   ├── _config.yml
 │   ├── anti-harassment-policy.md
 │   ├── community-prospectus.md
@@ -29,13 +30,13 @@ $ tree
 ```
 
 
-### connpass_content.md
-conpassイベントページ用のmarkdown。バージョン管理するためにGitHubリポジトリにも追加した。
+### connpass_content_*.md
+conpassイベントページ用のmarkdown。バージョン管理するためにGitHubリポジトリにも追加。
 
 ### docs/
 GitHub Pagesで公開しているディレクトリ。
 
-URLは https://nagoya-godo-konshinkai.github.io/ngk20234/ 
+URLは https://nagoya-godo-konshinkai.github.io/ngk20234/
 
 markdownファイルはhtmlファイルに変換される。
 
