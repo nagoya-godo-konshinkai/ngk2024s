@@ -133,7 +133,7 @@ NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 ## 会場提供スポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/ateam.jpg"/><br/><a href="https://www.a-tm.co.jp/">株式会社エイチーム</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/ateam.png"/><br/><a href="https://www.a-tm.co.jp/">株式会社エイチーム</a></td>
 </tr>
 </table>
 

@@ -74,7 +74,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 ## 会場提供スポンサー
 <table>
 <tr>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/ateam.jpg"/><br/><a href="https://www.a-tm.co.jp/">株式会社エイチーム</a></td>
+<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/ateam.png"/><br/><a href="https://www.a-tm.co.jp/">株式会社エイチーム</a></td>
 </tr>
 </table>
 
