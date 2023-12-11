@@ -93,7 +93,8 @@ NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 ## 企業スポンサー
 NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」と言う目的にご賛同いただける法人スポンサーを募集中です。
 
-企業スポンサーとして支援いただいた際には企業ロゴの掲載・スポンサーLT等を行うことができ、特典の異なる「GOLDスポンサー」「SILVERスポンサー」の2種類を用意しています。
+企業スポンサーとして支援いただいた際には企業ロゴの掲載・チラシの配布等を行うことができます。
+※「GOLDスポンサー」の募集は締切りました。
 
 ### 申し込み方法
 詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2024s/sponsors-prospectus.html)をご覧ください。
@@ -146,8 +147,22 @@ NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+</tr>
+</table>
+
+## シルバースポンサー
+<table>
+<tr>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
