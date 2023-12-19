@@ -47,7 +47,7 @@ NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 * 「東海地方に縁のあるIT系コミュニティの発展」に関係がない場合やイベントの趣旨に合わない場合など実行委員会がふさわしくないと判断した場合はお断りいたします。
 
 ## 申込方法
-[Googleフォーム](https://docs.google.com/forms/d/1Bg2W35Zq-_j3fBNned0IyDf2AWnOrEDEUuA4M-m3uaU/)からお申込みください。
+[Googleフォーム](https://docs.google.com/forms/d/1Bg2W35Zq-_j3fBNned0IyDf2AWnOrEDEUuA4M-m3uaU/viewform)からお申込みください。
 
 「NGK2024Sの企業スポンサー」に決まりましたら、入力いただいたメールアドレスもしくはDiscordにてご連絡いたします。
 

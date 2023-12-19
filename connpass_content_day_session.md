@@ -42,12 +42,13 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 ### 参加費
 無料
 
-### 採択LT発表一覧（まだまだ募集中！）
-| スピーカ     | 内容                           |
+### 採択LT発表一覧（順不同・まだまだ募集中！）
+| スピーカ     | LTタイトル                     |
 | :----------- | :----------------------------- |
 | Hi. NONOGAKI | OSINTから得られる組織評価      |
 | hoto17296    | LLM+エンタープライズサーチ入門 |
-
+| antimon2（JuliaTokai）| 勉強会を主催したら本を出して技術顧問になった話 |
+| Yuma-Satake（MatsuribaTech）| お祭りの開き方 |
 
 
 # 夜の部：懇親会
@@ -73,7 +74,7 @@ NGKはIT系コミュニティ合同のイベントではありますが、LT内�
 ### 申し込み方法
 LT発表を希望される方は、[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2024s/lt_regulation.html)をお読みの上、connpassページの一般LT枠から参加申込を行ってください。
 
-基本的には先着順となりますが、LT発表の内容・タイトルが[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2024s/lt_regulation.html)に適合するかどうか事前に審査を行いますので、参加申込と同時に[応募フォーム](https://docs.google.com/forms/d/1emR1sbv7bwn41D1umPyAdtLTPagrxBotl8vkMPxePrU)に必要事項を入力してください。
+基本的には先着順となりますが、LT発表の内容・タイトルが[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2024s/lt_regulation.html)に適合するかどうか事前に審査を行いますので、参加申込と同時に[応募フォーム](https://docs.google.com/forms/d/1emR1sbv7bwn41D1umPyAdtLTPagrxBotl8vkMPxePrU/viewform)に必要事項を入力してください。
 
 審査の結果は、応募フォームに入力いただいたメールアドレスに連絡いたします。
 審査および採択は随時行います。

@@ -14,7 +14,7 @@ NGK2024Sでは『東海地方に縁のあるIT系コミュニティの発展を�
 
 ## 参加申し込み
 
-* [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdqimfODkti3p3cQECCOwJT7YolDRiAUcbhWYTUwCIyHYtXEw/viewform?usp=sf_link)よりお申し込みください。
+* [Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdqimfODkti3p3cQECCOwJT7YolDRiAUcbhWYTUwCIyHYtXEw/viewform)よりお申し込みください。
 * コミュニティ枠としてのLT発表を希望される場合は、参加申込と同時に[応募フォーム](https://docs.google.com/forms/d/e/1FAIpQLSeXYWN2ixhT4ZMpjRUdO3PbGNXprqAIJS48YRkJ1fSIFAMQVw/viewform)に必要事項を入力してください。
 * 募集枠：10枠（応募多数の場合は増枠する可能性もあります）
 
