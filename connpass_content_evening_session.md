@@ -115,7 +115,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://rubytokai.doorkeeper.jp/">Ruby東海</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/community/owasp_logo.png"/><br/><a href="https://owasp.org/www-chapter-nagoya/">OWASP Nagoya</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/community/MatsuribaTechLogo.png"/><br/><a href="https://twitter.com/MatsuribaTech">MatsuribaTech</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/coderdojo.png"/><br/><a href="https://coderdojo.jp">CoderDojo<br>稲沢・名古屋・<br>師勝・尾張</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/tokaido-lug-300w.png"/><br/><a href="https://tokaidolug.colorfultime.net">東海道らぐ</a></td>
