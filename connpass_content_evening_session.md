@@ -1,5 +1,3 @@
-# 募集期間終了と出ていますが、現在準備中です。詳細が決まり次第募集開始いたしますのでもう少々お待ち下さい！
-
 # 概要
 NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方IT系コミュニティ合同の大懇親会イベントです。
 
@@ -24,6 +22,8 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 32階、エレベータホール西側会場入り口からお入りください。(エイチームのエントランスと**逆方向**になりますのでご注意ください。)
 
+詳細な経路については後ほど掲載しますので、ご確認ください。
+
 ※ エントランス側から会場セミナースペースへは入室できません。
 
 ※ セキュリティエリアへの無断立ち入りは禁止です。必ずエイチーム様・スタッフの指示に従ってください。
@@ -32,19 +32,33 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 ※ 喫煙スペースはございません。
 
-
 # 昼の部: LT大会
 詳細は昼の部connpassページをご覧ください: [NGK2024S 昼の部 LT大会](https://ngk2022s.connpass.com/event/294318/)
 
 # 夜の部：懇親会
-昼の部と同会場にてケータリングを行う予定です。詳細は現在準備中ですのでしばらくお待ち下さい。
+昼の部と同会場にてケータリングを行います。
+ビュッフェ形式・飲み物（アルコール含む）飲み放題です。
+
+また、今回はスポンサー費より懇親会費用を補助頂きました。美味しいごはんと共に久々のオフライン懇親会、盛り上がりましょう！
 
 ### 時間
-19:00～20:00（多少前後する可能性あり）
+設営: 18:00～18:30
+
+懇親会: 18:30～20:30
+
+撤収: 20:30～21:00
 
 ### 参加費
-社会人4000円程度、学生1000円程度（必ず学生証をお持ちください）を予定しています。
+社会人: 4500円（事前決済、領収書はconnpassより発行されます）
 
+学生: 1000円（当日決済、必ず学生証をお持ちください）
+
+### 注意事項
+設営・撤収作業の時間が非常に短いため、設営・撤収のお手伝いをお願いする可能性があります。
+
+お手伝い頂く際は必ず、エイチーム様・スタッフ・ケータリング業者の指示に従ってください。
+
+皆様ご協力をお願いいたします。
 
 # タイムテーブル（多少前後する可能性あり）
 <table>
@@ -54,19 +68,29 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <td align="center" style="padding: 12px;"><br/>終了</td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><br/>昼の部オープニング</td>
-<td align="center" style="padding: 12px;"><br/>13:45</td>
-<td align="center" style="padding: 12px;"><br/>13:55</td>
+<td align="center" style="padding: 12px;"><br/>開場</td>
+<td align="center" style="padding: 12px;"><br/>12:30</td>
+<td align="center" style="padding: 12px;"><br/>13:00</td>
 </tr>
 <tr>
-<td align="center" style="padding: 12px;"><br/>昼の部本会</td>
-<td align="center" style="padding: 12px;"><br/>13:55</td>
-<td align="center" style="padding: 12px;"><br/>19:00</td>
+<td align="center" style="padding: 12px;"><br/>昼の部</td>
+<td align="center" style="padding: 12px;"><br/>13:00</td>
+<td align="center" style="padding: 12px;"><br/>18:00</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><br/>夜の部設営</td>
+<td align="center" style="padding: 12px;"><br/>18:00</td>
+<td align="center" style="padding: 12px;"><br/>18:30</td>
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><br/>夜の部</td>
-<td align="center" style="padding: 12px;"><br/>19:00</td>
-<td align="center" style="padding: 12px;"><br/>20:00</td>
+<td align="center" style="padding: 12px;"><br/>18:30</td>
+<td align="center" style="padding: 12px;"><br/>20:30</td>
+</tr>
+<tr>
+<td align="center" style="padding: 12px;"><br/>夜の部撤収</td>
+<td align="center" style="padding: 12px;"><br/>20:30</td>
+<td align="center" style="padding: 12px;"><br/>21:00</td>
 </tr>
 </table>
 
