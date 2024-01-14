@@ -234,7 +234,7 @@ NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/tokaido-lug-300w.png"/><br/><a href="https://tokaidolug.colorfultime.net">東海道らぐ</a></td>
 </tr>
 <tr>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/community/Liven_up_NAGOYA512.png"/><br/><a href="https://nagoya-it.connpass.com/">Liven up NAGOYA</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://nagara-rb.connpass.com/">nagara.rb</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
 <td align="center" style="padding: 9px;"><!-- <img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中 --></td>
