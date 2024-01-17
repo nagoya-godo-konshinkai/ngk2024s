@@ -159,7 +159,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/community/Liven_up_NAGOYA512.png"/><br/><a href="https://nagoya-it.connpass.com/">Liven up NAGOYA</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/><a href="https://nagara-rb.connpass.com/">nagara.rb</a></td>
 <td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/community/CDLENagoya_logo_jp_square.png"/><br/><a href="https://cdle.jp/contents/e66c80f9adb1">CDLE名古屋</a></td>
-<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2023s/img/community/empty.png"/><br/>準備中</td>
+<td align="center" style="padding: 9px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/community/CMC_logo_black_300.png"/><br/><a href="https://cmcmeetup.com/">CMC_Meetup 名古屋</a></td>
 </tr>
 </table>
 
