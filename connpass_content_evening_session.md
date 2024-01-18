@@ -37,7 +37,7 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 ※ 喫煙スペースはございません。
 
 # 昼の部: LT大会
-詳細は昼の部connpassページをご覧ください: [NGK2024S 昼の部 LT大会](https://ngk2022s.connpass.com/event/294318/)
+詳細は昼の部connpassページをご覧ください: [NGK2024S 昼の部 LT大会](https://ngk2022s.connpass.com/event/294313/)
 
 # 夜の部：懇親会
 昼の部と同会場にてケータリングを行います。
