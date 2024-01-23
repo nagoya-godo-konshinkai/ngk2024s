@@ -75,6 +75,12 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 | somawada |GPTsでAIバーテンダー作ってみた（仮） |
 
 
+### 以下の募集は締め切りました。
+* 一般LT
+* オンラインLT
+* コミュニティ参加
+* 企業スポンサー
+
 # 夜の部：懇親会
 昼の部と同会場にてケータリングを行います。詳細は夜の部懇親会ページを御覧ください。
 
@@ -89,94 +95,6 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 ### 参加費
 社会人4400円、学生1000円（必ず学生証をお持ちください）
-
-# 募集中
-## 一般LT
-一般LT発表者を募集中です。
-NGKはIT系コミュニティ合同のイベントではありますが、LT内容は必ずしも「IT」にこだわる必要はありません。例年、「広島カープ」、「チョコレート」、「京都の風光明媚な写真」などなど、様々なトピックが出てきます。
-
-もちろんLT発表初心者も大歓迎です！
-
-過去のLT発表内容は過去のイベント実績、もしくは[Youtubeのアーカイブ](https://www.youtube.com/@NagoyaGodoKonshinkai)をご覧ください。
-
-### 申し込み方法
-LT発表を希望される方は、[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2024s/lt_regulation.html)をお読みの上、connpassページの一般LT枠から参加申込を行ってください。
-
-基本的には先着順となりますが、LT発表の内容・タイトルが[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2024s/lt_regulation.html)に適合するかどうか事前に審査を行いますので、参加申込と同時に[応募フォーム](https://docs.google.com/forms/d/1emR1sbv7bwn41D1umPyAdtLTPagrxBotl8vkMPxePrU/viewform)に必要事項を入力してください。
-
-審査の結果は、応募フォームに入力いただいたメールアドレスに連絡いたします。
-審査および採択は随時行います。
-
-LTの申し込み締め切り **1/19 18:00 までに必ず応募フォームを入力・送信してください**。connpass上でLT発表を申し込み頂いた場合でも、締め切り時点で応募フォームが送信されていない場合は発表できない可能性があります。ご了承ください。
-
-### 申し込み期限
-**2024/01/19（金） 18:00**
-
-申し込み多数の場合は先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
-## オンラインLT 【New!】
-当日会場に来られない方もオンラインでの発表が可能なオンラインLT参加者を募集します！
-当日外出が難しい方、名古屋を離れられた方など、ぜひご参加ください。
-
-### 注意事項
-当日の会場はWiFIのみの環境であり、通信状況があまり良くない可能性があります。( WiFi はLT発表者のみに開放します。)
-
-トラブルも含めてNGKとして楽しんでいただけると幸いです。
-
-また、万が一トラブルが発生し発表が中断した場合に備え、発表動画を事前に送付頂くことが可能です（必須ではありません）。
-事前に送付頂いた場合、トラブル発生時に代わりに動画を放映致します。また、後日の YouTube 録画配信にも動画を含めます。
-
-なお、トラブルがない限りはリアルタイムで発表頂く想定ですが、リアルタイム発表が難しい場合もぜひ一度connpassよりご相談ください。
-
-### 申し込み方法
-LT発表を希望される方は、[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2024s/lt_regulation.html)をお読みの上、connpassページの**オンラインLT枠**から参加申込を行ってください。
-
-基本的には先着順となりますが、LT発表の内容・タイトルが[LTレギュレーション](https://nagoya-godo-konshinkai.github.io/ngk2024s/lt_regulation.html)に適合するかどうか事前に審査を行いますので、参加申込と同時に[応募フォーム](https://docs.google.com/forms/d/1emR1sbv7bwn41D1umPyAdtLTPagrxBotl8vkMPxePrU/viewform)に必要事項を入力してください。
-
-また、応募フォームの「オンラインLTを希望する方のみ選択」のチェックを必ず行ってください。
-
-審査の結果は、応募フォームに入力いただいたメールアドレスに連絡いたします。
-審査および採択は随時行います。
-
-LTの申し込み締め切り **1/19 18:00 までに必ず応募フォームを入力・送信してください**。connpass上でLT発表を申し込み頂いた場合でも、締め切り時点で応募フォームが送信されていない場合は発表できない可能性があります。ご了承ください。
-
-### 申し込み期限
-**2024/01/19（金） 18:00**
-
-申し込み多数の場合は先着順に採択しますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
-
-## コミュニティ参加
-NGK2023Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」目的でコミュニティ活動を宣伝できる場を用意しております。
-
-コミュニティとして参加していただくと、コミュニティロゴの掲載・コミュニティLT等を行うことができます。また、参加費用は無料です！
-
-担当者の当日参加が難しい場合でも、ロゴ掲載やスライド配信によるコミュニティ活動の宣伝が可能です！是非ご参加ください。
-
-### 申し込み方法
-詳細は[コミュニティ参加募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2024s/community-prospectus.html)をご覧ください。
-
-### 申し込み期限
-**2024/01/19（金） 18:00**
-
-申し込み多数の場合は先着順となりますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
-
-## 企業スポンサー
-NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を図る」と言う目的にご賛同いただける法人スポンサーを募集中です。
-
-企業スポンサーとして支援いただいた際には企業ロゴの掲載・チラシの配布等を行うことができます。
-
-※「GOLDスポンサー」の募集は締切りました。
-
-### 申し込み方法
-詳細は[企業スポンサー募集要綱](https://nagoya-godo-konshinkai.github.io/ngk2024s/sponsors-prospectus.html)をご覧ください。
-
-### 申し込み期限
-**2024/01/19（金） 18:00**
-
-申し込み多数の場合は先着順となりますので、申込み期限前でもお断りする可能性があります。ご了承ください。
-
 
 
 # タイムテーブル（多少前後する可能性あり）
@@ -230,22 +148,6 @@ NGK2024Sでは「東海地方に縁のあるIT系コミュニティの発展を�
 </tr>
 <tr>
 <td align="center" style="padding: 12px;"><img width="200px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/leaner.png"/><br/><a href="https://leaner.co.jp/">株式会社Leaner Technologies</a></td>
-</tr>
-</table>
-
-## シルバースポンサー
-<table>
-<tr>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
 </tr>
 </table>
 
