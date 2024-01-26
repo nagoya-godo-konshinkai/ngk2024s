@@ -135,22 +135,6 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 </tr>
 </table>
 
-## シルバースポンサー
-<table>
-<tr>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-<td align="center" style="padding: 12px;"><img width="150px" src="https://nagoya-godo-konshinkai.github.io/ngk2024s/img/sponsor/empty.png"/><br/>準備中</td>
-</tr>
-</table>
-
 # コミュニティ参加（申し込み順）
 <table>
 <tr>
