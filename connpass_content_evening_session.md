@@ -48,41 +48,9 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 ### 予定メニュー
 
-* LIVE 低温調理ローストポーク（シェフが目の前でカッティング！）
-* プチトマト＆オリーブのカプレーゼ
-* 生ハムドライフルーツのクリームチーズ
-* 合鴨ロースのネギグリルエビとオクラのジェノベーゼ
-* ベビーホタテとエリンギのバターソテー
-* 自家製鶏ハム～イタリアンバジルソース～
-* 季節の鮮魚のカルパッチョ
-* とろける豚の角煮自家製ハンバーグとマッシュポテト
-* 本格四川麻婆豆腐
-* 鮮魚の握り寿司
-* 日替わりカットケーキ＆2種のわらび餅
+
 
 ### 飲み放題ドリンク
-
-* 生ビール
-* いいちこ (ロック・水割り)
-* レモンサワー
-* 黒霧島(ロック・水割り)
-* みかんサワー
-* 白桃サワー
-* ハイボール
-* ハイボールコーク
-* カシスオレンジ
-* カシスウーロン
--ジン-
-* ピーチウーロン
-* ジントニック
-* ファジーネーブル
-* 赤ワイン
-* 白ワイン
-* 烏龍茶
-* オレンジジュース
-* コーラ
-* ミネラルウォーター
-* 炭酸水
 
 
 
@@ -230,11 +198,9 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 * [c0hama](https://connpass.com/user/c0hama/open/)
 * [h_hiro_](https://connpass.com/user/h_hiro_/open/)
 * [katzueno](https://connpass.com/user/katzueno/open/)
-* [TOOKA](https://connpass.com/user/TOOKA/open/)
 * [usakotail](https://connpass.com/user/usakotail/open/)
 * [unarist](https://connpass.com/user/unarist/open/)
 * [youhei_yamaguchi](https://connpass.com/user/youhei_yamaguchi/open/)
-* [yuji38kwmt](https://connpass.com/user/yuji38kwmt/open/)
 
 # 名誉会長
 * [terurou](https://connpass.com/user/terurou/)
