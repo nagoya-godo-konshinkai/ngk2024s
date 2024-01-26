@@ -81,40 +81,6 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 皆様ご協力をお願いいたします。
 
-# タイムテーブル（多少前後する可能性あり）
-<table>
-<tr>
-<td align="center" style="padding: 12px;"><br/>内容</td>
-<td align="center" style="padding: 12px;"><br/>開始</td>
-<td align="center" style="padding: 12px;"><br/>終了</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>開場</td>
-<td align="center" style="padding: 12px;"><br/>12:30</td>
-<td align="center" style="padding: 12px;"><br/>13:00</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>昼の部</td>
-<td align="center" style="padding: 12px;"><br/>13:00</td>
-<td align="center" style="padding: 12px;"><br/>18:00</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>夜の部設営</td>
-<td align="center" style="padding: 12px;"><br/>18:00</td>
-<td align="center" style="padding: 12px;"><br/>18:30</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>夜の部</td>
-<td align="center" style="padding: 12px;"><br/>18:30</td>
-<td align="center" style="padding: 12px;"><br/>20:30</td>
-</tr>
-<tr>
-<td align="center" style="padding: 12px;"><br/>夜の部撤収</td>
-<td align="center" style="padding: 12px;"><br/>20:30</td>
-<td align="center" style="padding: 12px;"><br/>21:00</td>
-</tr>
-</table>
-
 # 企業スポンサー（五十音順）
 ## 会場提供スポンサー
 <table>
