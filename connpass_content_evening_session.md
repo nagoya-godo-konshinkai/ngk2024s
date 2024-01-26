@@ -48,11 +48,11 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 ### 予定メニュー
 
-
+[予定メニュー](https://nagoya-godo-konshinkai.github.io/ngk2024s/img/other/menu.png)をご覧ください。
 
 ### 飲み放題ドリンク
 
-
+[飲み放題ドリンク](https://nagoya-godo-konshinkai.github.io/ngk2024s/img/other/drink.png)をご覧ください。
 
 ### 時間
 設営: 18:00～18:30（参加必須ではありません）
