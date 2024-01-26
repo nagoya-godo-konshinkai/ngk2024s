@@ -23,9 +23,9 @@ NGK（名古屋合同懇親会）とは、1年に1度行っている東海地方
 
 ### ライブ配信
 
-- YouTube Live (準備中)
-- Facebook Live (準備中)
-- Twitch (準備中)
+- [YouTube Live](https://www.youtube.com/watch?v=auDtvF85QqQ)
+- [Facebook Live](https://www.facebook.com/events/735663038512602)
+- [X](https://x.com/ngk_lt)
 
 ### 会場へのアクセス方法 & 会場での諸注意
 「参加者への情報」をご確認ください。なお休日は入口が施錠されているため、その他の経路では入場できません。
