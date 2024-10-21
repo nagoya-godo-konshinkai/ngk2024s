@@ -18,6 +18,9 @@ $ tree
 │   │   │   └── empty.png
 │   │   └── sponsor
 │   │       └── empty.png
+│   ├── report
+│   │   ├── NGK2024S_conference_results.pdf
+│   │   └── NGK2024S_financial_results.pdf
 │   ├── index.md
 │   ├── lt_regulation.md
 │   ├── sponsors-prospectus.md
@@ -36,7 +39,7 @@ conpassイベントページ用のmarkdown。バージョン管理するため�
 ### docs/
 GitHub Pagesで公開しているディレクトリ。
 
-URLは https://nagoya-godo-konshinkai.github.io/ngk20234/
+URLは https://nagoya-godo-konshinkai.github.io/ngk2024/
 
 markdownファイルはhtmlファイルに変換される。
 
@@ -46,6 +49,8 @@ connpassイベントページから参照する画像などの置き場所
 * sponsor/ : 企業スポンサー用
 * community/ : 協力コミュニティ用
 
+#### docs/report/
+開催に関わる報告書等の置き場所
 
 ### original/
 企業スポンサーや協力コミュニティから直接提供いただいたファイルの置き場所
